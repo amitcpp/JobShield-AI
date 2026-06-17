@@ -6,9 +6,9 @@ import Link from "next/link";
 import { Button } from "@/components/ui/button";
 
 const stats = [
-  { label: "Scams Detected", value: "50,000+", icon: ShieldCheck },
-  { label: "Accuracy Rate", value: "99.2%", icon: TrendingUp },
-  { label: "Active Users", value: "10K+", icon: Sparkles },
+  { label: "AI Engine", value: "Gemini 2.5", icon: Sparkles },
+  { label: "Analysis", value: "Real-time", icon: TrendingUp },
+  { label: "Protection", value: "Always On", icon: ShieldCheck },
 ];
 
 const containerVariants = {
